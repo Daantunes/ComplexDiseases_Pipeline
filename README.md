@@ -53,18 +53,18 @@ More information in the pdf of my master thesis.
 │   ├── variants\
 │   │   ├── notnormal.csv\
 │   │   └── sigVars.csv\
-│   └── vcf
-│       ├── cases
-│       │   └── vcfQC
-│       │       ├── All_PT_biallelic.vcf.gz
-│       │       ├── All_PT.vcf.gz
-│       │       ├── count_snp_indel.sh
-│       │       ├── final_dataset_hwe.vcf.gz
-│       │       ├── final_dataset_ind.vcf.gz
-│       │       ├── final_dataset_q20.vcf.gz
-│       │       ├── pics.R
-│       │       ├── relatedness.py
-│       ├── controls
+│   └── vcf\
+│       ├── cases\
+│       │   └── vcfQC\
+│       │       ├── All_PT_biallelic.vcf.gz\
+│       │       ├── All_PT.vcf.gz\
+│       │       ├── count_snp_indel.sh\
+│       │       ├── final_dataset_hwe.vcf.gz\
+│       │       ├── final_dataset_ind.vcf.gz\
+│       │       ├── final_dataset_q20.vcf.gz\
+│       │       ├── pics.R\
+│       │       ├── relatedness.py\
+│       ├── controls\
 │       ├── igsr_samples.tsv\
 └── src\
     ├── bash\
