@@ -76,8 +76,7 @@ More information in the pdf of my master thesis.
 &emsp;&ensp;├── jupyter\
 &emsp;&ensp;│   └── Roc curves and tables.ipynb\
 &emsp;&ensp;├── python\
-&emsp;&ensp;│   
-&emsp;&ensp;├── biogridParser.py\
+&emsp;&ensp;|   ├── biogridParser.py\
 &emsp;&ensp;│   ├── featureExtraction.py\
 &emsp;&ensp;│   ├── feature_selector.py\
 &emsp;&ensp;│   ├── geneSelection.py\
@@ -89,7 +88,7 @@ More information in the pdf of my master thesis.
 &emsp;&ensp;│   ├── variantSelection.py\
 &emsp;&ensp;│   └── vcfParser.py\
 &emsp;&ensp;└── R\
-&emsp;&emsp;&ensp;├── all_data.RData\
+&emsp;&emsp;&emsp;├── all_data.RData\
 ├── dmGWAS_3.0.tar.gz\
 ├── network.R\
 ├── plotManhattan.R\
