@@ -68,28 +68,29 @@ More information in the pdf of my master thesis.
 │       ├── igsr_samples.tsv\
 └── src\
 &emsp;&ensp;├── bash\
-&emsp;│   ├── plots.sh\
-&emsp;│   ├── runCases.sh\
-&emsp;│   ├── runControls.sh\
-&emsp;│   ├── runMain.sh\
-&emsp;│   └── runMerge.sh\
-    ├── jupyter\
-    │   └── Roc curves and tables.ipynb\
-    ├── python\
-    │   ├── biogridParser.py\
-    │   ├── featureExtraction.py\
-    │   ├── feature_selector.py\
-    │   ├── geneSelection.py\
-    │   ├── main.py\
-    │   ├── models.py\
-    │   ├── network.py\
-    │   ├── pickle\
-    │   ├── plots.py\
-    │   ├── variantSelection.py\
-    │   └── vcfParser.py\
-    └── R\
-        ├── all_data.RData\
-        ├── dmGWAS_3.0.tar.gz\
-        ├── network.R\
-        ├── plotManhattan.R\
-        └── qualityControl.R\
+&emsp;&ensp;│   ├── plots.sh\
+&emsp;&ensp;│   ├── runCases.sh\
+&emsp;&ensp;│   ├── runControls.sh\
+&emsp;&ensp;│   ├── runMain.sh\
+&emsp;&ensp;│   └── runMerge.sh\
+&emsp;&ensp;├── jupyter\
+&emsp;&ensp;│   └── Roc curves and tables.ipynb\
+&emsp;&ensp;├── python\
+&emsp;&ensp;│   
+&emsp;&ensp;├── biogridParser.py\
+&emsp;&ensp;│   ├── featureExtraction.py\
+&emsp;&ensp;│   ├── feature_selector.py\
+&emsp;&ensp;│   ├── geneSelection.py\
+&emsp;&ensp;│   ├── main.py\
+&emsp;&ensp;│   ├── models.py\
+&emsp;&ensp;│   ├── network.py\
+&emsp;&ensp;│   ├── pickle\
+&emsp;&ensp;│   ├── plots.py\
+&emsp;&ensp;│   ├── variantSelection.py\
+&emsp;&ensp;│   └── vcfParser.py\
+&emsp;&ensp;└── R\
+&emsp;&emsp;&ensp;├── all_data.RData\
+├── dmGWAS_3.0.tar.gz\
+├── network.R\
+├── plotManhattan.R\
+└── qualityControl.R\
