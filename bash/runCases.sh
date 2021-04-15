@@ -1,0 +1,24 @@
+# Process case files
+python3 main.py -v cases 1 ../../data/vcf/cases/All_PT_1.vcf.gz
+python3 main.py -v cases 2 ../../data/vcf/cases/All_PT_2.vcf.gz
+python3 main.py -v cases 3 ../../data/vcf/cases/All_PT_3.vcf.gz
+python3 main.py -v cases 4 ../../data/vcf/cases/All_PT_4.vcf.gz
+python3 main.py -v cases 5 ../../data/vcf/cases/All_PT_5.vcf.gz
+python3 main.py -v cases 6 ../../data/vcf/cases/All_PT_6.vcf.gz
+python3 main.py -v cases 7 ../../data/vcf/cases/All_PT_7.vcf.gz
+python3 main.py -v cases 8 ../../data/vcf/cases/All_PT_8.vcf.gz
+python3 main.py -v cases 9 ../../data/vcf/cases/All_PT_9.vcf.gz
+python3 main.py -v cases 10 ../../data/vcf/cases/All_PT_10.vcf.gz
+python3 main.py -v cases 11 ../../data/vcf/cases/All_PT_11.vcf.gz
+python3 main.py -v cases 12 ../../data/vcf/cases/All_PT_12.vcf.gz
+python3 main.py -v cases 13 ../../data/vcf/cases/All_PT_13.vcf.gz
+python3 main.py -v cases 14 ../../data/vcf/cases/All_PT_14.vcf.gz
+python3 main.py -v cases 15 ../../data/vcf/cases/All_PT_15.vcf.gz
+python3 main.py -v cases 16 ../../data/vcf/cases/All_PT_16.vcf.gz
+python3 main.py -v cases 17 ../../data/vcf/cases/All_PT_17.vcf.gz
+python3 main.py -v cases 18 ../../data/vcf/cases/All_PT_18.vcf.gz
+python3 main.py -v cases 19 ../../data/vcf/cases/All_PT_19.vcf.gz
+python3 main.py -v cases 20 ../../data/vcf/cases/All_PT_20.vcf.gz
+python3 main.py -v cases 21 ../../data/vcf/cases/All_PT_21.vcf.gz
+python3 main.py -v cases 22 ../../data/vcf/cases/All_PT_22.vcf.gz
+python3 main.py -v cases X ../../data/vcf/cases/All_PT_X.vcf.gz

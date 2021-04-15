@@ -1,0 +1,24 @@
+# Process control files
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 1 ../../data/vcf/controls/ALL.chr1.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 2 ../../data/vcf/controls/ALL.chr2.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 3 ../../data/vcf/controls/ALL.chr3.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 4 ../../data/vcf/controls/ALL.chr4.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 5 ../../data/vcf/controls/ALL.chr5.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 6 ../../data/vcf/controls/ALL.chr6.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 7 ../../data/vcf/controls/ALL.chr7.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 8 ../../data/vcf/controls/ALL.chr8.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 9 ../../data/vcf/controls/ALL.chr9.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 10 ../../data/vcf/controls/ALL.chr10.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 11 ../../data/vcf/controls/ALL.chr11.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 12 ../../data/vcf/controls/ALL.chr12.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 13 ../../data/vcf/controls/ALL.chr13.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 14 ../../data/vcf/controls/ALL.chr14.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 15 ../../data/vcf/controls/ALL.chr15.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 16 ../../data/vcf/controls/ALL.chr16.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 17 ../../data/vcf/controls/ALL.chr17.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 18 ../../data/vcf/controls/ALL.chr18.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 19 ../../data/vcf/controls/ALL.chr19.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 20 ../../data/vcf/controls/ALL.chr20.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 21 ../../data/vcf/controls/ALL.chr21.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls 22 ../../data/vcf/controls/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5a.20130502.genotypes.vcf.gz
+python3 main.py -s ../../data/vcf/igsr_samples.tsv -v controls X ../../data/vcf/controls/ALL.chrX.phase3_shapeit2_mvncall_integrated_v1b.20130502.genotypes.vcf.gz
