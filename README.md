@@ -67,7 +67,7 @@ More information in the pdf of my master thesis.
 │       ├── controls\
 │       ├── igsr_samples.tsv\
 └── src\
-&emsp;├── bash\
+&emsp;&ensp;├── bash\
 &emsp;│   ├── plots.sh\
 &emsp;│   ├── runCases.sh\
 &emsp;│   ├── runControls.sh\
