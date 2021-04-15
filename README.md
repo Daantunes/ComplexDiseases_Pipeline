@@ -89,7 +89,7 @@ More information in the pdf of my master thesis.
 &emsp;&ensp;│   └── vcfParser.py\
 &emsp;&ensp;└── R\
 &emsp;&emsp;&emsp;├── all_data.RData\
-├── dmGWAS_3.0.tar.gz\
-├── network.R\
-├── plotManhattan.R\
-└── qualityControl.R\
+&emsp;&emsp;&emsp;├── dmGWAS_3.0.tar.gz\
+&emsp;&emsp;&emsp;├── network.R\
+&emsp;&emsp;&emsp;├── plotManhattan.R\
+&emsp;&emsp;&emsp;└── qualityControl.R\
