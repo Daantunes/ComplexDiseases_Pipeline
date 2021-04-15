@@ -74,9 +74,9 @@ More information in the pdf of my master thesis.
 &emsp;&ensp;│   ├── runMain.sh\
 &emsp;&ensp;│   └── runMerge.sh\
 &emsp;&ensp;├── jupyter\
-&emsp;&ensp;│   └── Roc curves and tables.ipynb\
+&emsp;&ensp;│   └── Roc curves and tables.ipynb\
 &emsp;&ensp;├── python\
-&emsp;&ensp;|   ├── biogridParser.py\
+&emsp;&ensp;│   ├── biogridParser.py\
 &emsp;&ensp;│   ├── featureExtraction.py\
 &emsp;&ensp;│   ├── feature_selector.py\
 &emsp;&ensp;│   ├── geneSelection.py\
